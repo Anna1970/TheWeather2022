@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheWeather2022</string>
+    <string name="name_app">The Weather 2022</string>
+    <string name="city_hint">Город</string>
+    <string name="str_about">The Weather 2022</string>
+    <string name="str_get_wearther">Получить погоду</string>
+</resources>
